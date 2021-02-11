@@ -20,6 +20,8 @@ pylint = "*"
 djangorestframework_simplejwt = "*"
 coreapi = "*"
 xlrd = "*"
+opencv-python = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.7"
